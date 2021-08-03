@@ -38,6 +38,8 @@ Hello，我是MacWinLin工作室室长
 
 工作室Github官方账号：[Github主页](https://github.com/macwinlin)
 
+工作室Github组织：[Github组织主页](https://github.com/macwinlin-work-shop)
+
 工作室主页：[编程猫官方主页](https://shequ.codemao.cn/work_shop/7864)
 
 #### 致谢
