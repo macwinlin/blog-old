@@ -19,12 +19,10 @@ author: 鑫鑫Xinxin
 
 其余步骤请按照图片执行
 
-![Github注册1](https://pic.liesio.com/2021/08/04/bc817221b9fa5.png)
+![github_register_1](https://user-images.githubusercontent.com/88317432/128173619-cf1db4d5-11c1-47e3-abd4-e0fa3039097e.png)
 
-![Github注册2](https://pic.liesio.com/2021/08/04/511bac1efef3a.png)
+![github_register_2](https://user-images.githubusercontent.com/88317432/128173645-3f813c07-998d-49cd-8a01-8ee3fb675706.png)
 
-![Github注册3](https://pic.liesio.com/2021/08/04/b30732d0858c0.png)
+![github_register_3](https://user-images.githubusercontent.com/88317432/128173661-924478f6-c3fd-4bff-b5f9-2967d892b009.png)
 
-![Github注册4](https://user-images.githubusercontent.com/88317432/128173026-8ee73d1a-5231-404c-978e-f7e27862ff5a.png)
-
-![Github注册4]()
+![github_register_4](https://user-images.githubusercontent.com/88317432/128173685-fbeb7844-444b-42ff-be2f-1257bb5f8ebc.png)
