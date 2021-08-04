@@ -27,7 +27,7 @@ author: 鑫鑫Xinxin
 
 ![github_register_4](https://user-images.githubusercontent.com/88317432/128173685-fbeb7844-444b-42ff-be2f-1257bb5f8ebc.png)
 
-![github_register_5](https://user-images.githubusercontent.com/88317432/128174261-80f156e9-2e0b-40b1-83e9-be0cb09131ea.png)
+![Github_register_5](https://user-images.githubusercontent.com/88317432/128202422-c31cf867-a0f6-4018-bab3-248ea48889c2.png)
 
 ![github_register_6](https://user-images.githubusercontent.com/88317432/128174481-214c702c-0f34-49de-af1f-e26dccbe7023.png)
 
