@@ -37,6 +37,8 @@ author: 鑫鑫Xinxin
 
 ![Github首页](https://user-images.githubusercontent.com/88317432/128175496-0664d173-afb1-409b-8603-30a99b61d869.png)
 
+(本账号仅用于测试，现已删除账号)
+
 ### 加入Organization
 
 请用您的Github账号登录本博客的Gitalk，并按照以下形式留言：
