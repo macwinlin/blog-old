@@ -31,7 +31,7 @@ author: 鑫鑫Xinxin
 
 ![github_register_6](https://user-images.githubusercontent.com/88317432/128174481-214c702c-0f34-49de-af1f-e26dccbe7023.png)
 
-![github_register_7](https://user-images.githubusercontent.com/88317432/128174795-ef4842a6-59c3-42fc-ade4-da008be97ce4.png)
+![github_register_7](https://user-images.githubusercontent.com/88317432/128286959-2bbf44d4-7d3a-430f-8cae-503d37680f00.png)
 
 然后会有一段非常绚丽的动画，然后加载，最后，恭喜你，来到了Github首页！
 
