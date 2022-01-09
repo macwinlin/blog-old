@@ -10,7 +10,9 @@ Hello，我是MacWinLin工作室室长
 
 工作室名称：MacWinLin工作室
 
-工作室
+工作室简称：MWL(工作室)
+
+工作室方向：制作仿操作系统与软件(Scratch+Kitten+Python)
 
 #### 工作室成员
 
