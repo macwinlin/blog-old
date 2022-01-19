@@ -63,9 +63,9 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: 5818924547f3de3fa281
-  clientSecret: 8b697bbf837219c6cc9d5ecfd218a00d5bbbe382
-  repo: macwinlin.github.io
+  clientID: ab8d784a088c0540cc91
+  clientSecret: 429a9010c0f1002cb0e7e75fbb34947879fd8101
+  repo: old
   owner: macwinlin
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
@@ -73,7 +73,7 @@ gitalk:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://macwinlin.github.io
+url: https://macwinlin.github.io/old/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -89,7 +89,7 @@ permalink: /:title/
 paginate_path: /page:num/
 
 # The release of Jekyll Now that you're using
-version: v0.0.1
+version: v0.4
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
