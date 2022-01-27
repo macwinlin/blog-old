@@ -63,9 +63,9 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: ab8d784a088c0540cc91
-  clientSecret: 429a9010c0f1002cb0e7e75fbb34947879fd8101
-  repo: old
+  clientID: 489c83c9226a07ac5d0f
+  clientSecret: 2279deb022b91978bc0903354f17da98b20c35eb
+  repo: blog-old
   owner: macwinlin
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
@@ -73,7 +73,7 @@ gitalk:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://macwinlin.github.io/old/
+url: https://macwinlin.github.io/blog-old/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
